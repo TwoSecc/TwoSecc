@@ -15,8 +15,7 @@
 <br />
 <br />
 <br />
-<br />
-<br />
+
 
 ### Tech I use
 
@@ -52,4 +51,4 @@
 </details>
 
 [instagram]: https://www.instagram.com/ercan.seriin/
-[linkedin]: https://www.linkedin.com/in/ercan-serin-5a78a5246/
+[linkedin]: https://www.linkedin.com/in/ercan-serkan-serin-5a78a5246/
